@@ -1,6 +1,4 @@
-## Minimal Maintenance mode page that can be used anywhere
-
-### Page
+## Minimal Maintenance mode page that can be used anywhe
 
 ![alt text](page.png)
 
