@@ -1,7 +1,7 @@
-# Minimal Maintenance mode page that can be used anywhere
+## Minimal Maintenance mode page that can be used anywhere
 
-## Screenshot
+### Page
 
 ![alt text](page.png)
 
-## MIT Licensed
+### MIT Licensed
